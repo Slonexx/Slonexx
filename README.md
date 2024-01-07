@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Slonexx/Slonexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Всем добра
 
-Here are some ideas to get you started:
+Меня зовут Сергей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
+
+
+## Моя статистика 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slonexx&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+## Сипользую фреймворки
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+
+## Забавы ради
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
